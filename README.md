@@ -21,7 +21,7 @@
 <a href="https://www.cplusplus.com" title="c++"> <img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="c++" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="python"> <img src="file:///C:/Users/%D7%A2%D7%93%D7%99/Downloads/android-studio.svg" alt="Pycharm" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="Pycharm" width="40" height="40"/></a>
 <a href="https://www.linux.org" target="Linux"> <img src="https://github.com/get-icon/geticon/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
 <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white" alt="andoidStudio" height="40"/>![Uploading 
 
