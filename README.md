@@ -22,7 +22,7 @@
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
 <a href="https://www.jetbrains.com/pycharm/" target="python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="Pycharm" width="40" height="40"/></a>
-<a href="https://www.linux.org" target="Linux"> <img src="https://github.com/get-icon/geticon/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
+<a href="https://www.linux.org" target="Linux"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
 <a href="https://developer.android.com/studio" target="android studio"> <img src="file:///C:/Users/%D7%A2%D7%93%D7%99/Downloads/android-studio.svg" alt="android studio" width="40" height="40"/></a>
 </p>
 
