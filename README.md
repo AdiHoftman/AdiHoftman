@@ -26,11 +26,3 @@
 <a href="https://developer.android.com/studio" target="android studio"> <img src="file:///C:/Users/%D7%A2%D7%93%D7%99/Downloads/android-studio.svg" alt="android studio" width="40" height="40"/></a>
 </p>
 
-<h1>📈 Github Stats:</h1>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviEyal&theme=slateorange&layout=compact" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LeviEyal&show_icons=true&theme=slateorange&layout=compact&line_height=20" />
-</a>
-
