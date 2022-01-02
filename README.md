@@ -21,8 +21,9 @@
 <a href="https://www.cplusplus.com" title="c++"> <img src="https://github.com/get-icon/geticon/blob/master/logos/c-plusplus.svg" alt="c++" width="40" height="40"/></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"/>  </a>  
 <a href="https://www.jetbrains.com/idea/" title="Intellij IDEA"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/intellij-idea.svg" alt="Intellij IDEA" width="40" height="40"/></a>  
-<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="PyCharm" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/pycharm/" target="PyCharm"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/pycharm.svg" alt="python" width="40" height="40"/></a>
 <a href="https://www.linux.org" target="Linux"> <img src="https://github.com/get-icon/geticon/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.linux.org" target="Linux"> <img src="https://github.com/get-icon/geticon/blob/master/logos/linux-tux.svg" alt="Linux" width="40" height="40"/></a>
 </p>
 
 <h1> 🔬 My Knowlege:</h1>
