@@ -30,6 +30,6 @@
 </p>
 
 <h3 align="left">Frameworks, Platforms and Libraries:</h3>
-<a href="https://react.dev/" target="react"> <img src="https://<React>.githubusercontent.com/" alt="react" width="40" height="40"/></a>
+<a href="https://react.dev/" target="react"> <img src="https://React.githubusercontent.com/" alt="react" width="40" height="40"/></a>
 
 
