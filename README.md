@@ -15,7 +15,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.javascript.com/" target="javascript"> <img src="https://icons-for-free.com/iconfiles/png/512/javascript-1331550889870124968.png" alt="javascript" width="40" height="40"/>  </a>
-  <a href="https://www.javascript.com/" target="HTML"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOGsZ0DS1ZoCQSoU1PcP07IemGerhA0QalUw&usqp=CAU" alt="HTML" width="40" height="40"/>  </a>
+  <a href="https://www.javascript.com/" target="HTML"> <img src="https://play-lh.googleusercontent.com/vzHVyL8G7birnPZ0zuCQQ2uDxuLIXzYOUGjFDFzIqfx-ww1fq8IysoEiWzhWI3Dw08g=w480-h960-rw" alt="HTML" width="40" height="40"/>  </a>
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>  
