@@ -30,6 +30,6 @@
 </p>
 
 <h3 align="left">Frameworks, Platforms and Libraries:</h3>
-<a href="https://react.dev/" target="react"> <img src="https://img.shields.io/badge/React-262c3e?style=for-the-badge&logo=React&logoColor=white" alt="react" /></a>
+<a href="https://react.dev/" target="react"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="react" /></a>
 
 
