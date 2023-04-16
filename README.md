@@ -29,3 +29,7 @@
 <a href="https://developer.android.com/studio" target="android studio"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/android-icon.svg" alt="android studio" width="40" height="40"/></a>
 </p>
 
+<h3 align="left">Frameworks, Platforms and Libraries:</h3>
+<a href="https://react.dev/" target="react"> <img src="https://<React>.githubusercontent.com/" alt="react" width="40" height="40"/></a>
+
+
