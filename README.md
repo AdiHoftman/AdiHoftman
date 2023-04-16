@@ -1,7 +1,7 @@
-<h1 align="center">Hi there 👋, I'm Adi</h1>
-<h3 align="center">Computer Science student at Ariel University</h3>
+<h1 align="center">Hi there 👋, I'm Adi Hoftman</h1>
+<h3 align="center">Bsc Computer Science at Ariel University</h3>
 
-- 🌱 I’m currently learning Java, Python, C and C++ langauges
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React and more..
 - 💬 LinkedIn: https://www.linkedin.com/in/עדי-הופטמן-266b57208/
 - 📫 Email: adihoftman8@gmail.com
 
@@ -14,6 +14,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://www.javascript.com/" target="javascript"> <img src="https://icons-for-free.com/iconfiles/png/512/javascript-1331550889870124968.png" alt="javascript" width="40" height="40"/>  </a>
 <a href="https://git-scm.com/" target="git"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>  </a>
 <a href="https://www.java.com" target="Java"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/java.svg" alt="java" width="40" height="40"/>  </a>  
 <a href="https://www.python.org" target="Python"> <img src="https://github.com/tomchen/stack-icons/blob/master/logos/python.svg" alt="python" width="40" height="40"/>  </a>  
