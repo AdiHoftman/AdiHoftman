@@ -30,6 +30,7 @@
 </p>
 
 <h3 align="left">Frameworks, Platforms and Libraries:</h3>
-<a href="https://react.dev/" target="react"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="react" width="60" height="40"/></a>
+<a href="https://react.dev/" target="react"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="react" width="70" height="50"/></a>
+<a href="https://nodejs.org/en" target="nodeJS"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="nodeJs" width="70" height="50"/></a>
 
 
