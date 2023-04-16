@@ -31,7 +31,7 @@
 
 <h3 align="left">Frameworks, Platforms and Libraries:</h3>
 <a href="https://react.dev/" target="react"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/reactjs_logo_icon_170805.png" alt="react" width="80" height="50"/></a>
-<a href="https://nodejs.org/en" target="nodeJS"> <img src="https://logowik.com/content/uploads/images/nodejs.jpg" alt="nodeJs" width="80" height="50"/></a>
+<a href="https://nodejs.org/en" target="nodeJS"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_wordmark_logo_icon_146412.png" alt="nodeJs" width="80" height="50"/></a>
 <a href="https://www.npmjs.com/" target="npm"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_npm_icon_130297.png" alt="npm" width="80" height="50"/></a>
 
 
